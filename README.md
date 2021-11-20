@@ -35,5 +35,5 @@ Press `ESC` or hit the `X` in the window frame to quit out.
 
 ## License
 
-PySnake is licensed under the Apache 2 license.
+SDL2Boilerplate is licensed under the Apache 2 license.
 See the [LICENSE](https://github.com/Kingcitaldo125/PySnake/blob/main/LICENSE) file for more details.
